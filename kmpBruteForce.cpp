@@ -1,3 +1,6 @@
+/* This Algorithm is used for string matching,
+The time complexity of this algorithm is O(n^2).*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
